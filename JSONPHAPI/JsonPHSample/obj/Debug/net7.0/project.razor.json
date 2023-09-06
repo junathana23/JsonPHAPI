@@ -1,0 +1,20 @@
+{
+  "SerializedFilePath": "c:\\Users\\JunathanA\\Documents\\JSONPHAPI\\JsonPHSample\\obj\\Debug\\net7.0\\project.razor.json",
+  "FilePath": "c:\\Users\\JunathanA\\Documents\\JSONPHAPI\\JsonPHSample\\JsonPHSample.csproj",
+  "Configuration": {
+    "ConfigurationName": "MVC-3.0",
+    "LanguageVersion": "7.0",
+    "Extensions": [
+      {
+        "ExtensionName": "MVC-3.0"
+      }
+    ]
+  },
+  "ProjectWorkspaceState": {
+    "TagHelpers": [],
+    "CSharpLanguageVersion": 1100
+  },
+  "RootNamespace": "JsonPHSample",
+  "Documents": [],
+  "SerializationFormat": "0.3"
+}
