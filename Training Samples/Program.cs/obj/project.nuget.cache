@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "pfphGSggSQNl+/x36rcso5M/drndpFnCuRjMLWnPr8/A2vZWuzEObPMcjmTlqKtjK2s2b5inRckbjeUrWKmssg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\JunathanA\\Documents\\BlockchainPOC\\Program.cs\\Program.cs.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\JunathanA\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.1\\microsoft.netcore.platforms.1.1.1.nupkg.sha512",
+    "C:\\Users\\JunathanA\\.nuget\\packages\\microsoft.netcore.targets\\1.1.3\\microsoft.netcore.targets.1.1.3.nupkg.sha512",
+    "C:\\Users\\JunathanA\\.nuget\\packages\\system.runtime\\4.3.1\\system.runtime.4.3.1.nupkg.sha512",
+    "C:\\Users\\JunathanA\\.nuget\\packages\\system.runtime.extensions\\4.3.1\\system.runtime.extensions.4.3.1.nupkg.sha512"
+  ],
+  "logs": []
+}

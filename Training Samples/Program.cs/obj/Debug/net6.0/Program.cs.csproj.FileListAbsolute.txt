@@ -1,0 +1,30 @@
+C:\Users\JunathanA\Documents\BlockchainPOC\Program.cs\bin\Debug\net6.0\Program.cs.exe
+C:\Users\JunathanA\Documents\BlockchainPOC\Program.cs\bin\Debug\net6.0\Program.cs.deps.json
+C:\Users\JunathanA\Documents\BlockchainPOC\Program.cs\bin\Debug\net6.0\Program.cs.runtimeconfig.json
+C:\Users\JunathanA\Documents\BlockchainPOC\Program.cs\bin\Debug\net6.0\Program.cs.dll
+C:\Users\JunathanA\Documents\BlockchainPOC\Program.cs\bin\Debug\net6.0\Program.cs.pdb
+C:\Users\JunathanA\Documents\BlockchainPOC\Program.cs\obj\Debug\net6.0\Program.cs.csproj.AssemblyReference.cache
+C:\Users\JunathanA\Documents\BlockchainPOC\Program.cs\obj\Debug\net6.0\Program.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JunathanA\Documents\BlockchainPOC\Program.cs\obj\Debug\net6.0\Program.cs.AssemblyInfoInputs.cache
+C:\Users\JunathanA\Documents\BlockchainPOC\Program.cs\obj\Debug\net6.0\Program.cs.AssemblyInfo.cs
+C:\Users\JunathanA\Documents\BlockchainPOC\Program.cs\obj\Debug\net6.0\Program.cs.csproj.CoreCompileInputs.cache
+C:\Users\JunathanA\Documents\BlockchainPOC\Program.cs\obj\Debug\net6.0\Program.cs.dll
+C:\Users\JunathanA\Documents\BlockchainPOC\Program.cs\obj\Debug\net6.0\refint\Program.cs.dll
+C:\Users\JunathanA\Documents\BlockchainPOC\Program.cs\obj\Debug\net6.0\Program.cs.pdb
+C:\Users\JunathanA\Documents\BlockchainPOC\Program.cs\obj\Debug\net6.0\Program.cs.genruntimeconfig.cache
+C:\Users\JunathanA\Documents\BlockchainPOC\Program.cs\obj\Debug\net6.0\ref\Program.cs.dll
+C:\Users\JunathanA\Documents\Training Samples\Program.cs\bin\Debug\net6.0\Program.cs.exe
+C:\Users\JunathanA\Documents\Training Samples\Program.cs\bin\Debug\net6.0\Program.cs.deps.json
+C:\Users\JunathanA\Documents\Training Samples\Program.cs\bin\Debug\net6.0\Program.cs.runtimeconfig.json
+C:\Users\JunathanA\Documents\Training Samples\Program.cs\bin\Debug\net6.0\Program.cs.dll
+C:\Users\JunathanA\Documents\Training Samples\Program.cs\bin\Debug\net6.0\Program.cs.pdb
+C:\Users\JunathanA\Documents\Training Samples\Program.cs\obj\Debug\net6.0\Program.cs.csproj.AssemblyReference.cache
+C:\Users\JunathanA\Documents\Training Samples\Program.cs\obj\Debug\net6.0\Program.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JunathanA\Documents\Training Samples\Program.cs\obj\Debug\net6.0\Program.cs.AssemblyInfoInputs.cache
+C:\Users\JunathanA\Documents\Training Samples\Program.cs\obj\Debug\net6.0\Program.cs.AssemblyInfo.cs
+C:\Users\JunathanA\Documents\Training Samples\Program.cs\obj\Debug\net6.0\Program.cs.csproj.CoreCompileInputs.cache
+C:\Users\JunathanA\Documents\Training Samples\Program.cs\obj\Debug\net6.0\Program.cs.dll
+C:\Users\JunathanA\Documents\Training Samples\Program.cs\obj\Debug\net6.0\refint\Program.cs.dll
+C:\Users\JunathanA\Documents\Training Samples\Program.cs\obj\Debug\net6.0\Program.cs.pdb
+C:\Users\JunathanA\Documents\Training Samples\Program.cs\obj\Debug\net6.0\Program.cs.genruntimeconfig.cache
+C:\Users\JunathanA\Documents\Training Samples\Program.cs\obj\Debug\net6.0\ref\Program.cs.dll
